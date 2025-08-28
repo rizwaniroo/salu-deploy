@@ -1,1 +1,1 @@
-# salu-deploy
+# demo-actions-project
